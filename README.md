@@ -1,0 +1,2 @@
+# Fridamyrepo
+tester ma configuration
